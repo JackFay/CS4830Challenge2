@@ -1,0 +1,12 @@
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll.config
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.pdb
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.dll
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.pdb
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.csprojResolveAssemblyReference.cache
+C:\Users\jrfay\Documents\Visual Studio 2015\Projects\Web Dev\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll.config
+C:\Users\jrfay\Documents\Visual Studio 2015\Projects\Web Dev\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll
+C:\Users\jrfay\Documents\Visual Studio 2015\Projects\Web Dev\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.pdb
+C:\Users\jrfay\Documents\Visual Studio 2015\Projects\Web Dev\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.csprojResolveAssemblyReference.cache
+C:\Users\jrfay\Documents\Visual Studio 2015\Projects\Web Dev\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.dll
+C:\Users\jrfay\Documents\Visual Studio 2015\Projects\Web Dev\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.pdb
